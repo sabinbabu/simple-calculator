@@ -11,7 +11,7 @@
 .calculator {
   width: 25rem;
 }
-
+/* display area */
 #display {
   padding: 1rem;
   border: 1px solid darkgray;
